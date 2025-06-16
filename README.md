@@ -194,6 +194,8 @@ pip install -r requirements.txt
 
 ## License
 
-This project is open-source and available for collaboration, feedback, and extension. 
+This project is licensed under the MIT License.
+You are free to use, modify, distribute, and build upon this project for personal or commercial purposes — with proper attribution.
+This project is open-source and welcomes collaboration, feedback, and contributions.
 
 ---
